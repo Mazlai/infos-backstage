@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "title": "Documentation de Codacy",
+  "description": "Documentation complète pour le composant Codacy.",
+  "entity": {
+    "kind": "Component",
+    "name": "Codacy"
+  }
+}
