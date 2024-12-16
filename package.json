@@ -1,5 +1,7 @@
 {
   "name": "Codacy",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "Codacy": "file:"
+  }
 }

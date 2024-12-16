@@ -1,5 +1,0 @@
-site_name: Documentation de Mon Projet
-nav:
-  - Accueil: index.md
-theme:
-  name: material
