@@ -13,3 +13,4 @@ theme:
     code: Roboto Mono
 plugins:
   - search
+  - techdocs-core
