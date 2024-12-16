@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "Codacy"
   annotations:
-    backstage.io/techdocs-ref: value
+    backstage.io/techdocs-ref: "dir:./docs"
 spec:
   type: service
   owner: user:guest
