@@ -1,1 +1,1 @@
-console.log('Hello from Codacy!');
+console.log('Hello from Node.js template !');
