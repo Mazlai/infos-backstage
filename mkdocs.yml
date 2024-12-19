@@ -1,4 +1,4 @@
-site_name: Codacy
+site_name: Node.js template
 docs_dir: docs
 site_dir: site
 nav:
